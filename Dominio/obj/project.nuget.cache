@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ER6LcPPm2GE=",
+  "dgSpecHash": "bFrRJKYisfw=",
   "success": true,
-  "projectFilePath": "/Users/marcelocordoba/Documents/app/csharp/Test/Persona4/Dominio/Dominio.csproj",
+  "projectFilePath": "/Users/marcelocordoba/Documents/app/csharp/Test/OrdenPersonas/Dominio/Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

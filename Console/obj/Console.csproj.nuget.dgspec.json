@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/marcelocordoba/Documents/app/csharp/Test/Persona4/Console/Console.csproj": {}
+    "/Users/marcelocordoba/Documents/app/csharp/Test/OrdenPersonas/Console/Console.csproj": {}
   },
   "projects": {
-    "/Users/marcelocordoba/Documents/app/csharp/Test/Persona4/Console/Console.csproj": {
+    "/Users/marcelocordoba/Documents/app/csharp/Test/OrdenPersonas/Console/Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marcelocordoba/Documents/app/csharp/Test/Persona4/Console/Console.csproj",
+        "projectUniqueName": "/Users/marcelocordoba/Documents/app/csharp/Test/OrdenPersonas/Console/Console.csproj",
         "projectName": "Console",
-        "projectPath": "/Users/marcelocordoba/Documents/app/csharp/Test/Persona4/Console/Console.csproj",
+        "projectPath": "/Users/marcelocordoba/Documents/app/csharp/Test/OrdenPersonas/Console/Console.csproj",
         "packagesPath": "/Users/marcelocordoba/.nuget/packages/",
-        "outputPath": "/Users/marcelocordoba/Documents/app/csharp/Test/Persona4/Console/obj/",
+        "outputPath": "/Users/marcelocordoba/Documents/app/csharp/Test/OrdenPersonas/Console/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/marcelocordoba/.nuget/NuGet/NuGet.Config"
@@ -27,8 +27,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/marcelocordoba/Documents/app/csharp/Test/Persona4/Dominio/Dominio.csproj": {
-                "projectPath": "/Users/marcelocordoba/Documents/app/csharp/Test/Persona4/Dominio/Dominio.csproj"
+              "/Users/marcelocordoba/Documents/app/csharp/Test/OrdenPersonas/Dominio/Dominio.csproj": {
+                "projectPath": "/Users/marcelocordoba/Documents/app/csharp/Test/OrdenPersonas/Dominio/Dominio.csproj"
               }
             }
           }
@@ -343,14 +343,14 @@
         }
       }
     },
-    "/Users/marcelocordoba/Documents/app/csharp/Test/Persona4/Dominio/Dominio.csproj": {
+    "/Users/marcelocordoba/Documents/app/csharp/Test/OrdenPersonas/Dominio/Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marcelocordoba/Documents/app/csharp/Test/Persona4/Dominio/Dominio.csproj",
+        "projectUniqueName": "/Users/marcelocordoba/Documents/app/csharp/Test/OrdenPersonas/Dominio/Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "/Users/marcelocordoba/Documents/app/csharp/Test/Persona4/Dominio/Dominio.csproj",
+        "projectPath": "/Users/marcelocordoba/Documents/app/csharp/Test/OrdenPersonas/Dominio/Dominio.csproj",
         "packagesPath": "/Users/marcelocordoba/.nuget/packages/",
-        "outputPath": "/Users/marcelocordoba/Documents/app/csharp/Test/Persona4/Dominio/obj/",
+        "outputPath": "/Users/marcelocordoba/Documents/app/csharp/Test/OrdenPersonas/Dominio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/marcelocordoba/.nuget/NuGet/NuGet.Config"
